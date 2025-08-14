@@ -1,17 +1,22 @@
 
 ## Howdy 🤠
 
-I'm a web and software developer currently based out of the Treasure Valley
+I'm a web and software developer currently based out of the Treasure Valley.  
+I've spent most of my working carrer in various training positions outside of the tech industry, helping develop new talent and refining training methods & documentation.  
 
 
+## Skills:
 
+- Frontend Development (HTML/CSS, Vue)
+- Database Management (MongoDB and SQL databases)
+- Developing and Incoporating RESTful APIs
 
-
-### Programming Languages  I have used:
+### Programming Languages:
 
 - Javascript
 - C#
 
+###
 <!--
 **ryancraker/ryancraker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
