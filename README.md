@@ -13,7 +13,7 @@ I've spent most of my working carrer in various training positions -- helping de
 
 ### Programming Languages:
 
-- Javascript
+- JavaScript
 - C#
 
 ###
