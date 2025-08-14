@@ -1,4 +1,16 @@
-## Hi there 👋
+
+## Howdy 🤠
+
+I'm a web and software developer currently based out of the Treasure Valley
+
+
+
+
+
+### Programming Languages  I have used:
+
+- Javascript
+- C#
 
 <!--
 **ryancraker/ryancraker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
