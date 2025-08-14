@@ -2,7 +2,7 @@
 ## Howdy 🤠
 
 I'm a web and software developer currently based out of the Treasure Valley.  
-I've spent most of my working carrer in various training positions outside of the tech industry, helping develop new talent and refining training methods & documentation.  
+I've spent most of my working carrer in various training positions -- helping develop new talent and refining training methods & documentation.  
 
 
 ## Skills:
